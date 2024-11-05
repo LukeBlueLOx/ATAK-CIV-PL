@@ -11,25 +11,27 @@ _________________________________________________________________
 </div>
 
 _________________________________________________________________
-PURPOSE AND CAPABILITIES
+PURPOSE AND CAPABILITIES:
 
 Polish Civil Defense
 
 _________________________________________________________________
-STATUS
+STATUS: 
+- In Progress  
 
-In Progress  
-
-Expected release: ???  
+Expected release: 
+- ???  
 
 Released:
-ATAK-Plugin-ATAK-CIV-PL-1.0--4.6.0-civ-debug.apk
+- ATAK-Plugin-ATAK-CIV-PL-1.0--4.6.0-civ-debug.apk
 
 https://github.com/LukeBlueLOx/ATAK-CIV-PL/releases
 
-To Who: Polish Civil Defense
+To Who: 
+- Polish Civil Defense
 
-When: ???
+When: 
+- ???
 
 _________________________________________________________________
 POINT OF CONTACTS

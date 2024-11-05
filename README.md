@@ -13,7 +13,7 @@ _________________________________________________________________
 _________________________________________________________________
 PURPOSE AND CAPABILITIES:
 
-Polish Civil Defense
+- Polish Civil Defense
 
 _________________________________________________________________
 STATUS: 
@@ -34,25 +34,25 @@ When:
 - ???
 
 _________________________________________________________________
-POINT OF CONTACTS
+POINT OF CONTACTS:
 
-LukeBlueLOx
+- LukeBlueLOx
 
 luke.blue.lox@gmail.com
 
 _________________________________________________________________
-PORTS REQUIRED
+PORTS REQUIRED:
 
 (This is important for ATO, networking, and other security concerns)
 
 _________________________________________________________________
-EQUIPMENT REQUIRED
+EQUIPMENT REQUIRED:
 
 _________________________________________________________________
-EQUIPMENT SUPPORTED
+EQUIPMENT SUPPORTED:
 
 _________________________________________________________________
-COMPILATION
+COMPILATION:
 
 _________________________________________________________________
-DEVELOPER NOTES
+DEVELOPER NOTES:

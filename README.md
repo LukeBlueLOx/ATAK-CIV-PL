@@ -4,15 +4,16 @@ _________________________________________________________________
 
 ### ATAK-CIV-PL
 
+_________________________________________________________________
+
 <img src="ATAK-CIV-PL.png" width="" height=""/>
 
 </div>
 
 _________________________________________________________________
+PURPOSE AND CAPABILITIES
+
 Polish Civil Defense
-
-(...)
-
 
 _________________________________________________________________
 STATUS
@@ -20,9 +21,13 @@ STATUS
 In Progress  
 
 Expected release: ???  
-Released:  
-To Who:  
-When:
+
+Released:
+ATAK-Plugin-ATAK-CIV-PL-1.0--4.6.0-civ-debug.apk
+
+To Who: Polish Civil Defense
+
+When: ???
 
 _________________________________________________________________
 POINT OF CONTACTS

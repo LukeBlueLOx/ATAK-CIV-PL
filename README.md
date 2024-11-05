@@ -25,6 +25,8 @@ Expected release: ???
 Released:
 ATAK-Plugin-ATAK-CIV-PL-1.0--4.6.0-civ-debug.apk
 
+https://github.com/LukeBlueLOx/ATAK-CIV-PL/releases
+
 To Who: Polish Civil Defense
 
 When: ???

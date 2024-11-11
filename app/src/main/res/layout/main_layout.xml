@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -13,10 +12,39 @@
         android:layout_height="wrap_content"
         android:orientation="vertical" >
 
+        <!-- Pierwsza linia -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="8dp"
+            android:background="@android:color/white" />
+
+        <!-- Wyśrodkowany tekst między liniami -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/app_name" />
+            android:text="ATAK-CIV-PL"
+            android:textSize="16dp"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white" />
+
+        <!-- Druga linia -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="8dp"
+            android:background="@android:color/white" />
+
+        <!-- Przycisk o szerokości linii -->
+        <Button
+            android:id="@+id/webView"
+            style="@style/darkButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:text="PLATFORMA SZKOLENIOWA"
+            android:layout_marginTop="1dp"
+            android:textColor="@android:color/white" />
 
     </LinearLayout>
 </ScrollView>

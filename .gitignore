@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/civDebug/classes/
+/debug.keystore
+/release.keystore

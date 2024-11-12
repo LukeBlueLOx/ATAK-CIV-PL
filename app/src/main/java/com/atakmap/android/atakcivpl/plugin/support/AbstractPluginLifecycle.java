@@ -1,5 +1,5 @@
 
-package com.atakmap.android.plugintemplate.plugin.support;
+package com.atakmap.android.atakcivpl.plugin.support;
 
 import java.util.Collection;
 import java.util.Iterator;

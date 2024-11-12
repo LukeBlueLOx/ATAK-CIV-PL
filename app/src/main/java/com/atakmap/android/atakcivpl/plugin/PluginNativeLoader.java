@@ -1,5 +1,5 @@
 
-package com.atakmap.android.plugintemplate.plugin;
+package com.atakmap.android.atakcivpl.plugin;
 
 import java.io.File;
 import android.content.Context;

@@ -19,7 +19,7 @@ public class AtakCivPlDropDownReceiver extends DropDownReceiver implements
     public static final String TAG = AtakCivPlDropDownReceiver.class
             .getSimpleName();
 
-    public static final String SHOW_PLUGIN = "com.atakmap.android.plugintemplate.SHOW_PLUGIN";
+    public static final String SHOW_PLUGIN = "com.atakmap.android.atakcivpl.SHOW_PLUGIN";
     private final View templateView;
     private final Context pluginContext;
 

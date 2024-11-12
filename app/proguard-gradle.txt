@@ -85,7 +85,7 @@
 ## Please change PluginTemplate to accurately reflect the name of your plugin
 ################################################################################################
 
--repackageclasses atakplugin.PluginTemplate
+-repackageclasses atakplugin.AtakCivPl
 
 
 ################################################################################################

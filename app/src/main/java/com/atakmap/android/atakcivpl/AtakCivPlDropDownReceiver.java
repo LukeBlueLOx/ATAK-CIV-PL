@@ -34,7 +34,7 @@ public class AtakCivPlDropDownReceiver extends DropDownReceiver implements
         // In this case, using it is not necessary - but I am putting it here to remind
         // developers to look at this Inflator
         templateView = PluginLayoutInflater.inflate(context,
-                R.layout.main_layout, null);
+                R.layout.atak_civ_pl_layout, null);
 
     }
 
